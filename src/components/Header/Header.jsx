@@ -14,7 +14,7 @@ const Header = () => {
         <span>Get the App</span>
         <div className="right">
           <span>Investor Relations</span>
-          <span>Add restaurant</span>
+          <span>Add restaurants</span>
           <span>sign up</span>
           <span>Log in</span>
         </div>
